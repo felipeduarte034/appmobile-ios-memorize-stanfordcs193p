@@ -13,6 +13,7 @@
 		5959C5FF2A9BF792004458CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5959C5FE2A9BF792004458CD /* Assets.xcassets */; };
 		5959C6022A9BF792004458CD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5959C6012A9BF792004458CD /* Preview Assets.xcassets */; };
 		59A8E2A82AA37EEF003BD9E5 /* MemoryGameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59A8E2A72AA37EEF003BD9E5 /* MemoryGameModel.swift */; };
+		59C45FBC2AA5520500C1F7C1 /* AspectVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59C45FBB2AA5520500C1F7C1 /* AspectVGrid.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		5959C5FE2A9BF792004458CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5959C6012A9BF792004458CD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		59A8E2A72AA37EEF003BD9E5 /* MemoryGameModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGameModel.swift; sourceTree = "<group>"; };
+		59C45FBB2AA5520500C1F7C1 /* AspectVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectVGrid.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		5959C5F92A9BF78F004458CD /* App Mobile Memorize StanfordCS193p */ = {
 			isa = PBXGroup;
 			children = (
+				59C45FBB2AA5520500C1F7C1 /* AspectVGrid.swift */,
 				59A8E2A72AA37EEF003BD9E5 /* MemoryGameModel.swift */,
 				59315DD62AA2391A00A5BE37 /* EmojiMemoryGame.swift */,
 				5959C5FA2A9BF78F004458CD /* App_Mobile_Memorize_StanfordCS193pApp.swift */,
@@ -146,6 +149,7 @@
 				59A8E2A82AA37EEF003BD9E5 /* MemoryGameModel.swift in Sources */,
 				5959C5FD2A9BF78F004458CD /* EmojiMemoryGameView.swift in Sources */,
 				5959C5FB2A9BF78F004458CD /* App_Mobile_Memorize_StanfordCS193pApp.swift in Sources */,
+				59C45FBC2AA5520500C1F7C1 /* AspectVGrid.swift in Sources */,
 				59315DD72AA2391A00A5BE37 /* EmojiMemoryGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
